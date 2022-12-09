@@ -4,6 +4,8 @@
 
 Lisp zealot. Gopher. Pythonist. And a few other things.
 
+[Website](https://www.smmcleod.com/) | [LinkedIn](https://www.linkedin.com/in/scottmmcleodjr/) | [Mastodon](https://fosstodon.org/@smm)
+
 #### 🔨 **Recent**
 
 - [An 8-bit virtual machine in Go](https://github.com/scottmcleodjr/gebvm)
